@@ -1,4 +1,5 @@
-[upload.pdf](https://github.com/signintovikrant/hospital_management/files/6801147/upload.pdf)
+Here u can download the pdf of all screenshot
+[download.pdf](https://github.com/signintovikrant/hospital_management/files/6801147/upload.pdf)
 # hospital_management
 
 #Build a website for Hospital using Spring Framework and
